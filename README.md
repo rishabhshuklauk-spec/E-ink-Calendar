@@ -11,7 +11,7 @@ I made this project to keep track of my schedule and help me visualize what is h
 Onshape chassis
 
 ### Wiring Diagram
-
+<img width="829" height="534" alt="image" src="https://github.com/user-attachments/assets/a613c389-2da3-4846-afb9-9e7512657815" />
 
 ## Bill of Materials (BOM)
 
