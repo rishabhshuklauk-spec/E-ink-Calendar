@@ -23,3 +23,4 @@ Onshape chassis
 | **7.5" E-ink display** | Display | $33.61 | eBay |
 | **Epaper driver board with esp32** | It serves as a microcontroller and a driver board | $11.81 | AliExpress |
 | **Total Cost** | | **$48.83** | |
+Parts I have: SCD41 and the TTP223.
